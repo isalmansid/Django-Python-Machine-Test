@@ -45,6 +45,9 @@ INSTALLED_APPS = [
 
 # Running the Code
 
+```bash
+pip install -r requirements.txt
+```
 
 
 1. In the settings.py file, configure the database to use PostgreSQL or MySQL:
